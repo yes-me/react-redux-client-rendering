@@ -1,0 +1,107 @@
+{
+  "users": [
+     {
+      "id": 1,
+      "name": "Steve Park",
+      "github": "yes-me",
+      "twitter": "mrcobranet",
+      "worksOn": "Cobras"
+    },
+    {
+      "id": 2,
+      "name": "Ryan Florence",
+      "github": "ryanflorence",
+      "twitter": "ryanflorence",
+      "worksOn": "React Router"
+    },
+    {
+      "id": 3,
+      "name": "Dan Abramov",
+      "github": "gaearon",
+      "twitter": "dan_abramov",
+      "worksOn": "Redux"
+    },
+    {
+      "id": 4,
+      "name": "Matt Zabriskie",
+      "github": "mzabriskie",
+      "twitter": "mzabriskie",
+      "worksOn": "Axios"
+    },
+    {
+      "id": 5,
+      "name": "Tobias Koppers",
+      "github": "sokra",
+      "worksOn": "Webpack"
+    },
+    {
+      "id": 6,
+      "name": "Sebastian McKenzie",
+      "github": "kittens",
+      "twitter": "sebmck",
+      "worksOn": "Babel"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "name": "Nationwide Dale Jr. Moment of the Week: Phoenix",
+      "url": "http://www.foxsports.com/nascar/video/810574915990"
+    },
+    {
+      "id": 2,
+      "name": "Tony Romo is delusional to think he’ll win starting QB job back | SPEAK FOR YOURSELF",
+      "url": "http://www.foxsports.com/nfl/video/811705411988"
+    },
+    {
+      "id": 3,
+      "name": "Ezekiel Elliott shouldn’t be favorite to top Tom Brady as NFL MVP | SPEAK FOR YOURSELF",
+      "url": "http://www.foxsports.com/nfl/video/811711043590"
+    },
+    {
+      "id": 4,
+      "name": "Tony Romo is delusional to think he’ll win starting QB job backr",
+      "url": "http://www.foxsports.com/nfl/video/865904195900"
+    },
+    {
+      "id": 5,
+      "name": "Nationwide Dale Jr. Moment of the Week: Phoenix",
+      "url": "http://www.foxsports.com/nascar/video/810574915990"
+    },
+    {
+      "id": 6,
+      "name": "Tony Romo is delusional to think he’ll win starting QB job back | SPEAK FOR YOURSELF",
+      "url": "http://www.foxsports.com/nfl/video/811705411988"
+    },
+    {
+      "id": 7,
+      "name": "Ezekiel Elliott shouldn’t be favorite to top Tom Brady as NFL MVP | SPEAK FOR YOURSELF",
+      "url": "http://www.foxsports.com/nfl/video/811711043590"
+    },
+    {
+      "id": 8,
+      "name": "Tony Romo is delusional to think he’ll win starting QB job backr",
+      "url": "http://www.foxsports.com/nfl/video/865904195900"
+    },
+    {
+      "id": 9,
+      "name": "Nationwide Dale Jr. Moment of the Week: Phoenix",
+      "url": "http://www.foxsports.com/nascar/video/810574915990"
+    },
+    {
+      "id": 10,
+      "name": "Tony Romo is delusional to think he’ll win starting QB job back | SPEAK FOR YOURSELF",
+      "url": "http://www.foxsports.com/nfl/video/811705411988"
+    },
+    {
+      "id": 11,
+      "name": "Ezekiel Elliott shouldn’t be favorite to top Tom Brady as NFL MVP | SPEAK FOR YOURSELF",
+      "url": "http://www.foxsports.com/nfl/video/811711043590"
+    },
+    {
+      "id": 12,
+      "name": "Tony Romo is delusional to think he’ll win starting QB job backr",
+      "url": "http://www.foxsports.com/nfl/video/865904195900"
+    }
+  ]
+}
